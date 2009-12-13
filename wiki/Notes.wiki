@@ -7,4 +7,5 @@
 <li>There is still a problem with the math in the current source code (the shape is distorted)</li>
 <li>inspired from http://www.instructables.com/id/3-D-Laser-Scanner/</li>
 <li>Your video should be as close as possible to 360 degrees</li>
+<li>The linux command I use to compile this program is: g++ avi-read.cpp -o avi-read -I /usr/include/opencv/ -L /usr/local/lib -lm -lcv -lhighgui -lcvaux</li>
 </ol>
