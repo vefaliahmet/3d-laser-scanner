@@ -1,13 +1,10 @@
-#summary One-sentence summary of this page.
-
-= Introduction =
-
-Add your content here.
-
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+<ol>
+<li>Compiled using opencv 1.1pre1</li>
+<li>Usage: avi-read video-file-name.avi > output.ply</li>
+<li>Usage with optional parameters: avi-read video-file-name.avi <Erode Factor> <Camera Angle> <Calibration Frame> > output.ply</li>
+<li>sample.ply is a sample output of this program which can be viewed/loaded with http://meshlab.sourceforge.net</li>
+<li>the turn-table I was using was rotating too fast and there is some missing information</li>
+<li>There is still a problem with the math in the current source code (the shape is distorted)</li>
+<li>inspired from http://www.instructables.com/id/3-D-Laser-Scanner/</li>
+<li>Your video should be as close as possible to 360 degrees</li>
+</ol>
