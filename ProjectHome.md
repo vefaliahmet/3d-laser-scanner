@@ -1,0 +1,3 @@
+Build a 3D laser scanner using a PC, a turn-table, a line laser and a digital video camera (or webcam) and c++.
+
+Inspired from <a href='http://www.instructables.com/id/3-D-Laser-Scanner/'><a href='http://www.instructables.com/id/3-D-Laser-Scanner/'>http://www.instructables.com/id/3-D-Laser-Scanner/</a></a>.  I basically used the same setup except for the Matlab script which was converted to a c++ program (because I don't own Matlab).
